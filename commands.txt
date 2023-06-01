@@ -1,0 +1,6 @@
+python gen_corpus_embeddings.py \
+  --clip_model_path=clip-imp-pretrained_128_6_after_4.pt \
+  --clip_pretrained \
+  --data_path=mimic_data/mimic_train_sentence_impressions.csv \
+  --out=clip_pretrained_mimic_train_sentence_embeddings.pt
+

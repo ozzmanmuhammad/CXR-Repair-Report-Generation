@@ -1,0 +1,9 @@
+clip-imp-pretrained_128_6_after_4.pt
+
+.repair/*
+data/IU/archive/images/images_normalized/*
+data/MIMIC-CXR-Reports/*/*/*/*
+mimic_data/*
+
+
+corpus_embeddings/*
